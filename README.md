@@ -1,6 +1,5 @@
 🔥 Employee Management System (MySQL Project)
 📌 Project Overview
-
 This project is a relational database system built using MySQL to manage employees, departments, and attendance records. It demonstrates real-world database operations such as joins, aggregations, stored procedures, views, and triggers.
 
 🛠️ Tech Stack
